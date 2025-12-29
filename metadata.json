@@ -1,0 +1,7 @@
+{
+  "name": "DigestiFlow",
+  "description": "A sleek, AI-powered tool to track and visualize the digestion time of various foods, fruits, and drinks, helping you understand your gut health journey.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
